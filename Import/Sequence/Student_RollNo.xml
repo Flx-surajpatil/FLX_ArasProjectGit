@@ -1,8 +1,0 @@
-﻿<AML>
- <Item type="Sequence" id="3F6ADF7E1A7E4902B090CD061F39826B" action="add">
-  <initial_value>0</initial_value>
-  <pad_to>2</pad_to>
-  <step>1</step>
-  <name>Student_RollNo</name>
- </Item>
-</AML>
